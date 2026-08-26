@@ -29,6 +29,7 @@
 | [12914](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | 멀리 뛰기 | 연습문제 | DP (O(n)) | [Problem.md](./12914-멀리뛰기/Problem.md) | [Solution.md](./12914-멀리뛰기/Solution.md) |
 | [131127](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | 할인 행사 | 연습문제 | 슬라이딩 윈도우 (O(n)) | [Problem.md](./131127-할인행사/Problem.md) | [Solution.md](./131127-할인행사/Solution.md) |
 | [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | H-Index | 정렬 | 정렬 (O(n log n)) | [Problem.md](./42747-H-Index/Problem.md) | [Solution.md](./42747-H-Index/Solution.md) |
+| [12913](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | 땅따먹기 | 연습문제 | DP (O(n)) | [Problem.md](./12913-땅따먹기/Problem.md) | [Solution.md](./12913-땅따먹기/Solution.md) |
 
 ## 개발 환경
 
