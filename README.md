@@ -32,6 +32,7 @@
 | [12913](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | 땅따먹기 | 연습문제 | DP (O(n)) | [Problem.md](./12913-땅따먹기/Problem.md) | [Solution.md](./12913-땅따먹기/Solution.md) |
 | [12927](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | 야근 지수 | 연습문제 | 탐욕법 + 최대 힙 (O(n log k)) | [Problem.md](./12927-야근지수/Problem.md) | [Solution.md](./12927-야근지수/Solution.md) |
 | [17687](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [3차] n진수 게임 | 2018 KAKAO BLIND RECRUITMENT | 문자열/진법 변환 | [Problem.md](./17687-n진수게임/Problem.md) | [Solution.md](./17687-n진수게임/Solution.md) |
+| [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식가격 | 스택/큐 | 스택 (O(n)) | [Problem.md](./42584-주식가격/Problem.md) | [Solution.md](./42584-주식가격/Solution.md) |
 
 ## 개발 환경
 
