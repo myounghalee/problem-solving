@@ -23,6 +23,10 @@
 |---|---|---|---|---|---|
 | [12973](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | 짝지어 제거하기 | 2017 팁스타운 | 스택 (O(n)) | [Problem.md](./12973-짝지어제거하기/Problem.md) | [Solution.md](./12973-짝지어제거하기/Solution.md) |
 | [60058](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | 괄호 변환 | 2020 KAKAO BLIND RECRUITMENT | 재귀 (O(n²)) | [Problem.md](./60058-괄호변환/Problem.md) | [Solution.md](./60058-괄호변환/Solution.md) |
+| [12911](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | 다음 큰 숫자 | 연습문제 | 비트 조작 | [Problem.md](./12911-다음큰숫자/Problem.md) | 풀이 전 |
+| [12945](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | 피보나치 수 | 연습문제 | DP (O(n)) | [Problem.md](./12945-피보나치수/Problem.md) | [Solution.md](./12945-피보나치수/Solution.md) |
+| [42885](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | 구명보트 | 탐욕법(Greedy) | 정렬 + 투 포인터 (O(n log n)) | [Problem.md](./42885-구명보트/Problem.md) | 풀이 전 |
+| [12914](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | 멀리 뛰기 | 연습문제 | DP (O(n)) | [Problem.md](./12914-멀리뛰기/Problem.md) | [Solution.md](./12914-멀리뛰기/Solution.md) |
 
 ## 개발 환경
 
