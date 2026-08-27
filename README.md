@@ -33,6 +33,8 @@
 | [12927](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | 야근 지수 | 연습문제 | 탐욕법 + 최대 힙 (O(n log k)) | [Problem.md](./12927-야근지수/Problem.md) | [Solution.md](./12927-야근지수/Solution.md) |
 | [17687](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [3차] n진수 게임 | 2018 KAKAO BLIND RECRUITMENT | 문자열/진법 변환 | [Problem.md](./17687-n진수게임/Problem.md) | [Solution.md](./17687-n진수게임/Solution.md) |
 | [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식가격 | 스택/큐 | 스택 (O(n)) | [Problem.md](./42584-주식가격/Problem.md) | [Solution.md](./42584-주식가격/Solution.md) |
+| [12987](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | 숫자 게임 | Summer/Winter Coding(~2018) | 정렬 + 탐욕법 (O(n log n)) | [Problem.md](./12987-숫자게임/Problem.md) | [Solution.md](./12987-숫자게임/Solution.md) |
+| [42626](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | 더 맵게 | 힙(Heap) | 최소 힙 (O(n log n)) | [Problem.md](./42626-더맵게/Problem.md) | 풀이 전 |
 
 ## 개발 환경
 
