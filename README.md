@@ -36,6 +36,7 @@
 | [12987](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | 숫자 게임 | Summer/Winter Coding(~2018) | 정렬 + 탐욕법 (O(n log n)) | [Problem.md](./12987-숫자게임/Problem.md) | [Solution.md](./12987-숫자게임/Solution.md) |
 | [42626](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | 더 맵게 | 힙(Heap) | 최소 힙 (O(n log n)) | [Problem.md](./42626-더맵게/Problem.md) | [Solution.md](./42626-더맵게/Solution.md) |
 | [42628](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐 | 힙(Heap) | 최소 힙 + 최대 힙 (지연 삭제), O(n log n) | [Problem.md](./42628-이중우선순위큐/Problem.md) | [Solution.md](./42628-이중우선순위큐/Solution.md) |
+| [42898](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 등굣길 | 동적계획법(Dynamic Programming) | DP (O(mn)) | [Problem.md](./42898-등굣길/Problem.md) | [Solution.md](./42898-등굣길/Solution.md) |
 
 ## 개발 환경
 
