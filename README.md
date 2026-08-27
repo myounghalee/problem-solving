@@ -41,6 +41,7 @@
 | [43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형 | 동적계획법(Dynamic Programming) | DP (O(n²)) | [Problem.md](./43105-정수삼각형/Problem.md) | [Solution.md](./43105-정수삼각형/Solution.md) |
 | [161988](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | 연속 펄스 부분 수열의 합 | 연습문제 | Kadane's Algorithm (O(n)) | [Problem.md](./161988-연속펄스부분수열의합/Problem.md) | [Solution.md](./161988-연속펄스부분수열의합/Solution.md) |
 | [49189](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 가장 먼 노드 | 그래프 | BFS (O(n + m)) | [Problem.md](./49189-가장먼노드/Problem.md) | [Solution.md](./49189-가장먼노드/Solution.md) |
+| [43164](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 여행경로 | 깊이/너비 우선 탐색(DFS/BFS) | 백트래킹 (DFS + 되돌리기) | [Problem.md](./43164-여행경로/Problem.md) | [Solution.md](./43164-여행경로/Solution.md) |
 
 ## 개발 환경
 
