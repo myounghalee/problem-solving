@@ -39,6 +39,7 @@
 | [42898](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 등굣길 | 동적계획법(Dynamic Programming) | DP (O(mn)) | [Problem.md](./42898-등굣길/Problem.md) | [Solution.md](./42898-등굣길/Solution.md) |
 | [42884](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 단속카메라 | 탐욕법(Greedy) | 정렬 + 탐욕법 (O(n log n)) | [Problem.md](./42884-단속카메라/Problem.md) | [Solution.md](./42884-단속카메라/Solution.md) |
 | [43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형 | 동적계획법(Dynamic Programming) | DP (O(n²)) | [Problem.md](./43105-정수삼각형/Problem.md) | [Solution.md](./43105-정수삼각형/Solution.md) |
+| [161988](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | 연속 펄스 부분 수열의 합 | 연습문제 | Kadane's Algorithm (O(n)) | [Problem.md](./161988-연속펄스부분수열의합/Problem.md) | [Solution.md](./161988-연속펄스부분수열의합/Solution.md) |
 
 ## 개발 환경
 
