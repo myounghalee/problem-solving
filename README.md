@@ -44,6 +44,7 @@
 | [43164](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 여행경로 | 깊이/너비 우선 탐색(DFS/BFS) | 백트래킹 (DFS + 되돌리기) | [Problem.md](./43164-여행경로/Problem.md) | [Solution.md](./43164-여행경로/Solution.md) |
 | [84021](https://school.programmers.co.kr/learn/courses/30/lessons/84021) | 퍼즐 조각 채우기 | 깊이/너비 우선 탐색(DFS/BFS) | BFS(덩어리 추출) + 회전 매칭 | [Problem.md](./84021-퍼즐조각채우기/Problem.md) | [Solution.md](./84021-퍼즐조각채우기/Solution.md) |
 | [87694](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | 아이템 줍기 | 깊이/너비 우선 탐색(DFS/BFS) | 좌표 2배 확장 + BFS | [Problem.md](./87694-아이템줍기/Problem.md) | [Solution.md](./87694-아이템줍기/Solution.md) |
+| [42888](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | 오픈채팅방 | 2019 KAKAO BLIND RECRUITMENT | 해시맵 (O(n)) | [Problem.md](./42888-오픈채팅방/Problem.md) | [Solution.md](./42888-오픈채팅방/Solution.md) |
 
 ## 개발 환경
 
