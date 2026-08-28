@@ -111,9 +111,10 @@ public boolean isAnagram(String s, String t) {
 
 ## 8. 관련 문제
 
-같은 "애너그램 판정" 아이디어를 슬라이딩 윈도우와 결합한 문제.
+같은 "애너그램" 계열 문제들.
 
 - [Find All Anagrams in a String (LeetCode 438)](../438-find-all-anagrams-in-a-string/Solution.md) — `s`의 부분 문자열 중 `p`의 애너그램인 것을 전부 찾는 문제. 여기서 쓴 "문자별 개수 비교"(방법 2, `int[26]`) 아이디어를 슬라이딩 윈도우와 결합해서 `O(n)`에 풀었다.
+- [Group Anagrams (LeetCode 49)](../49-group-anagrams/Solution.md) — 두 문자열의 애너그램 판정을 넘어, 여러 문자열을 애너그램 그룹으로 묶는 문제. 여기서 쓴 "정렬해서 비교"(방법 1) 아이디어를 "정렬해서 그룹 키로 쓴다"로 확장했다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 애너그램/문자 빈도 비교 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
