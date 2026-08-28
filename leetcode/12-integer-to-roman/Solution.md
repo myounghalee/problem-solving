@@ -106,6 +106,7 @@ class Solution {
 같은 "숫자를 자릿수 단위로 쪼개서 조회 테이블로 조립한다" 계열 문제. 특히 **"자릿수를 건너뛸 때 인덱스도 같이 넘어가야 한다"는 버그 패턴을 두 번 연속으로 겪은** 짝 문제다.
 
 - [Integer to English Words (LeetCode 273)](../273-integer-to-english-words/Solution.md) — 3자리씩 끊어서 `List` + join으로 조립하는 같은 패턴. 여기서도 "0인 덩어리를 건너뛸 때 자릿수 인덱스가 같이 스킵되는" 버그를 겪었다.
+- [Roman to Integer (LeetCode 13)](../13-roman-to-integer/Solution.md) — 이 문제의 정반대 방향(로마 숫자 → 정수) 변환.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 숫자↔문자열 변환, 자릿수 분해 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
