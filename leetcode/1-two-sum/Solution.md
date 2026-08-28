@@ -95,6 +95,7 @@ class Solution {
 같은 "해시맵으로 나머지 값을 O(1)에 찾는다" 계열 문제들, 그리고 같은 문제의 제약 조건 변형.
 
 - [Two Sum II - Input Array Is Sorted (LeetCode 167)](../167-two-sum-ii-input-array-is-sorted/Solution.md) — 배열이 정렬되어 있고 O(1) 공간만 써야 하는 변형. 해시맵 대신 투 포인터로 풀어야 한다.
+- [Two Sum IV - Input is a BST (LeetCode 653)](../653-two-sum-iv-input-is-a-bst/Solution.md) — 입력이 배열이 아니라 BST인 변형. 트리를 순회하며 이 문제와 같은 해시셋 아이디어를 그대로 적용한다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 해시맵 기반 탐색, Two Sum 변형(3Sum, 4Sum 등) 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
