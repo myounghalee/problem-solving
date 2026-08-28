@@ -22,6 +22,7 @@
 | 번호 | 제목 | 난이도 | 태그 | 문제 | 풀이 |
 |---|---|---|---|---|---|
 | [273](https://leetcode.com/problems/integer-to-english-words/) | Integer to English Words | Hard | Math, String, Recursion | [Problem.md](./273-integer-to-english-words/Problem.md) | [Solution.md](./273-integer-to-english-words/Solution.md) |
+| [12](https://leetcode.com/problems/integer-to-roman/) | Integer to Roman | Medium | Hash Table, Math, String | [Problem.md](./12-integer-to-roman/Problem.md) | [Solution.md](./12-integer-to-roman/Solution.md) |
 
 ## 개발 환경
 
