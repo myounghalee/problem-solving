@@ -33,6 +33,7 @@
 | [5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium | Two Pointers, String, DP, Manacher | [Problem.md](./5-longest-palindromic-substring/Problem.md) | [Solution.md](./5-longest-palindromic-substring/Solution.md) |
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/) | Longest Palindromic Subsequence | Medium | String, Dynamic Programming | [Problem.md](./516-longest-palindromic-subsequence/Problem.md) | [Solution.md](./516-longest-palindromic-subsequence/Solution.md) |
 | [647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | Medium | Two Pointers, String, Dynamic Programming | [Problem.md](./647-palindromic-substrings/Problem.md) | [Solution.md](./647-palindromic-substrings/Solution.md) |
+| [146](https://leetcode.com/problems/lru-cache/) | LRU Cache | Medium | Hash Table, Linked List, Design, Doubly-Linked List | [Problem.md](./146-lru-cache/Problem.md) | [Solution.md](./146-lru-cache/Solution.md) |
 
 ## 개발 환경
 
