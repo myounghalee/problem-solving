@@ -30,6 +30,7 @@
 | [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Find All Anagrams in a String | Medium | Hash Table, String, Sliding Window | [Problem.md](./438-find-all-anagrams-in-a-string/Problem.md) | [Solution.md](./438-find-all-anagrams-in-a-string/Solution.md) |
 | [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy | Hash Table, String, Sorting | [Problem.md](./242-valid-anagram/Problem.md) | [Solution.md](./242-valid-anagram/Solution.md) |
 | [49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium | Array, Hash Table, String, Sorting | [Problem.md](./49-group-anagrams/Problem.md) | [Solution.md](./49-group-anagrams/Solution.md) |
+| [5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium | Two Pointers, String, DP, Manacher | [Problem.md](./5-longest-palindromic-substring/Problem.md) | [Solution.md](./5-longest-palindromic-substring/Solution.md) |
 
 ## 개발 환경
 
