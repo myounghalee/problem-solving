@@ -133,6 +133,7 @@ if (c[j] == c[j + i]) dp[j][j + i]++;
 같은 팰린드롬 계열, 접근 방식이 대조적인 짝 문제.
 
 - [Longest Palindromic Substring (LeetCode 5)](../5-longest-palindromic-substring/Solution.md) — **부분 문자열**(연속) 버전. 이 문제는 "중심에서 확장"으로 풀 수 있지만, 부분 수열은 문자를 건너뛸 수 있어서 그 방식이 안 통하고 구간 DP가 필요하다는 점이 좋은 대조가 된다.
+- [Palindromic Substrings (LeetCode 647)](../647-palindromic-substrings/Solution.md) — 같은 구간 DP 틀을 쓰지만, "최장 길이"가 아니라 "팰린드롬인 구간이 총 몇 개인지" 센다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 구간 DP, 팰린드롬 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 

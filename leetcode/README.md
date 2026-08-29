@@ -32,7 +32,7 @@
 | [49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium | Array, Hash Table, String, Sorting | [Problem.md](./49-group-anagrams/Problem.md) | [Solution.md](./49-group-anagrams/Solution.md) |
 | [5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium | Two Pointers, String, DP, Manacher | [Problem.md](./5-longest-palindromic-substring/Problem.md) | [Solution.md](./5-longest-palindromic-substring/Solution.md) |
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/) | Longest Palindromic Subsequence | Medium | String, Dynamic Programming | [Problem.md](./516-longest-palindromic-subsequence/Problem.md) | [Solution.md](./516-longest-palindromic-subsequence/Solution.md) |
-| [647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | Medium | Two Pointers, String, Dynamic Programming | [Problem.md](./647-palindromic-substrings/Problem.md) | 풀이 전 |
+| [647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | Medium | Two Pointers, String, Dynamic Programming | [Problem.md](./647-palindromic-substrings/Problem.md) | [Solution.md](./647-palindromic-substrings/Solution.md) |
 
 ## 개발 환경
 
