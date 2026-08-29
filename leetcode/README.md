@@ -36,6 +36,7 @@
 | [146](https://leetcode.com/problems/lru-cache/) | LRU Cache | Medium | Hash Table, Linked List, Design, Doubly-Linked List | [Problem.md](./146-lru-cache/Problem.md) | [Solution.md](./146-lru-cache/Solution.md) |
 | [460](https://leetcode.com/problems/lfu-cache/) | LFU Cache | Hard | Hash Table, Linked List, Design, Doubly-Linked List | [Problem.md](./460-lfu-cache/Problem.md) | [Solution.md](./460-lfu-cache/Solution.md) |
 | [110](https://leetcode.com/problems/balanced-binary-tree/) | Balanced Binary Tree | Easy | Tree, DFS, Binary Tree | [Problem.md](./110-balanced-binary-tree/Problem.md) | [Solution.md](./110-balanced-binary-tree/Solution.md) |
+| [3319](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/) | K-th Largest Perfect Subtree Size in Binary Tree | Medium | Tree, DFS, Sorting, Binary Tree | [Problem.md](./3319-k-th-largest-perfect-subtree-size-in-binary-tree/Problem.md) | [Solution.md](./3319-k-th-largest-perfect-subtree-size-in-binary-tree/Solution.md) |
 
 ## 개발 환경
 
