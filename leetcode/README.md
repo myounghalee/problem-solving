@@ -38,6 +38,7 @@
 | [110](https://leetcode.com/problems/balanced-binary-tree/) | Balanced Binary Tree | Easy | Tree, DFS, Binary Tree | [Problem.md](./110-balanced-binary-tree/Problem.md) | [Solution.md](./110-balanced-binary-tree/Solution.md) |
 | [3319](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/) | K-th Largest Perfect Subtree Size in Binary Tree | Medium | Tree, DFS, Sorting, Binary Tree | [Problem.md](./3319-k-th-largest-perfect-subtree-size-in-binary-tree/Problem.md) | [Solution.md](./3319-k-th-largest-perfect-subtree-size-in-binary-tree/Solution.md) |
 | [1530](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Number of Good Leaf Nodes Pairs | Medium | Tree, DFS, Binary Tree, DP on Trees | [Problem.md](./1530-number-of-good-leaf-nodes-pairs/Problem.md) | [Solution.md](./1530-number-of-good-leaf-nodes-pairs/Solution.md) |
+| [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge k Sorted Lists | Hard | Linked List, Divide and Conquer, Heap, Merge Sort | [Problem.md](./23-merge-k-sorted-lists/Problem.md) | [Solution.md](./23-merge-k-sorted-lists/Solution.md) |
 
 ## 개발 환경
 
