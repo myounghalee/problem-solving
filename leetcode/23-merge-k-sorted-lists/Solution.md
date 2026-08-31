@@ -127,6 +127,7 @@ class Solution {
 같은 연결 리스트(`ListNode`)를 다루는 문제. (이 저장소에서 `ListNode`를 다루는 첫 문제)
 
 - [Merge Two Sorted Lists (LeetCode 21)](../21-merge-two-sorted-lists/Solution.md) — 이 문제를 리스트 2개짜리로 축소한 기본형. "값을 모아서 정렬 후 재구성"하는 접근이 동일하다.
+- [Ugly Number II (LeetCode 264)](../264-ugly-number-ii/Solution.md) — 정렬된 여러 흐름 중 매번 최솟값을 꺼내 병합한다는 다중 포인터 아이디어는 같지만, 병합 대상 수열이 미리 주어지지 않고 그때그때 만들어진다는 점이 다르다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 연결 리스트 병합/분할 정복/힙 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 

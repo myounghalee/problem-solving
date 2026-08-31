@@ -40,6 +40,7 @@
 | [1530](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Number of Good Leaf Nodes Pairs | Medium | Tree, DFS, Binary Tree, DP on Trees | [Problem.md](./1530-number-of-good-leaf-nodes-pairs/Problem.md) | [Solution.md](./1530-number-of-good-leaf-nodes-pairs/Solution.md) |
 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge k Sorted Lists | Hard | Linked List, Divide and Conquer, Heap, Merge Sort | [Problem.md](./23-merge-k-sorted-lists/Problem.md) | [Solution.md](./23-merge-k-sorted-lists/Solution.md) |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | Easy | Linked List, Recursion | [Problem.md](./21-merge-two-sorted-lists/Problem.md) | [Solution.md](./21-merge-two-sorted-lists/Solution.md) |
+| [264](https://leetcode.com/problems/ugly-number-ii/) | Ugly Number II | Medium | Hash Table, Math, Dynamic Programming, Heap (Priority Queue) | [Problem.md](./264-ugly-number-ii/Problem.md) | [Solution.md](./264-ugly-number-ii/Solution.md) |
 
 ## 개발 환경
 
