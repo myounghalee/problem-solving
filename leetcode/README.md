@@ -41,6 +41,8 @@
 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge k Sorted Lists | Hard | Linked List, Divide and Conquer, Heap, Merge Sort | [Problem.md](./23-merge-k-sorted-lists/Problem.md) | [Solution.md](./23-merge-k-sorted-lists/Solution.md) |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | Easy | Linked List, Recursion | [Problem.md](./21-merge-two-sorted-lists/Problem.md) | [Solution.md](./21-merge-two-sorted-lists/Solution.md) |
 | [264](https://leetcode.com/problems/ugly-number-ii/) | Ugly Number II | Medium | Hash Table, Math, Dynamic Programming, Heap (Priority Queue) | [Problem.md](./264-ugly-number-ii/Problem.md) | [Solution.md](./264-ugly-number-ii/Solution.md) |
+| [359](https://leetcode.com/problems/logger-rate-limiter/) | Logger Rate Limiter | Easy | Hash Table, Design, Data Stream | [Problem.md](./359-logger-rate-limiter/Problem.md) | [Solution.md](./359-logger-rate-limiter/Solution.md) |
+| [362](https://leetcode.com/problems/design-hit-counter/) | Design Hit Counter | Medium | Design, Queue, Binary Search, Data Stream | [Problem.md](./362-design-hit-counter/Problem.md) | [Solution.md](./362-design-hit-counter/Solution.md) |
 
 ## 개발 환경
 
