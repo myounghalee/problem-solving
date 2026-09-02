@@ -175,6 +175,7 @@ class Solution {
 
 - [Find All Anagrams in a String (LeetCode 438)](../438-find-all-anagrams-in-a-string/Solution.md) — 윈도우 크기가 `p.length()`로 **고정**된 버전. 이 문제(가변 크기)와 대비해서 보면 "윈도우 크기를 무엇이 결정하는가"의 차이가 분명해진다.
 - [Valid Anagram (LeetCode 242)](../242-valid-anagram/Solution.md) — 윈도우 없이 문자 빈도 비교만 하는 가장 기본형.
+- [Valid Sudoku (LeetCode 36)](../36-valid-sudoku/Solution.md) — 같은 "이미 본 값인지" 판정을 행·열·3x3 박스라는 고정된 그룹마다 적용하는 문제. 값의 범위가 작고 고정이면 `HashSet`보다 배열이 빠르다는 점(6절)이 그대로 반복된다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 슬라이딩 윈도우(고정/가변), 문자 빈도 관리 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
