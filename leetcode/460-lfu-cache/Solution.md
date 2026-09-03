@@ -144,6 +144,7 @@ class LFUCache {
 같은 캐시 설계 계열, 난이도가 한 단계 올라간 짝 문제.
 
 - [LRU Cache (LeetCode 146)](../146-lru-cache/Solution.md) — "가장 오래 안 쓰인 것"만 추적하면 되는 더 단순한 버전. `LinkedHashMap` 하나로 충분했지만, 이 문제는 "사용 횟수"라는 축이 추가되어 버킷 구조(`freq`)와 `minFreq` 추적이 더 필요하다.
+- [All O`one Data Structure (LeetCode 432)](../432-all-oone-data-structure/Solution.md) — 같은 "횟수별 버킷" 발상을 쓰지만, 횟수가 내려가는 `dec` 연산이 있어 `minFreq`를 정수 하나로 추적하는 방법이 무너진다. 그래서 버킷을 이중 연결 리스트로 꿰어야 `O(1)`이 유지된다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 캐시 설계, 해시맵+순서 유지 자료구조 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
