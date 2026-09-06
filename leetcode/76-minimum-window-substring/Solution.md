@@ -184,6 +184,8 @@ if (min > right - left + 1) {
 - [Longest Substring Without Repeating Characters (LeetCode 3)](../3-longest-substring-without-repeating-characters/Solution.md) — "조건이 깨지면 줄이고, 그 사이 최댓값을 갱신"하는 반대 방향. 이 문제와 짝을 지어 보면 "만족 조건이 무엇이고, 언제 늘리고 언제 줄이는가"라는 슬라이딩 윈도우의 뼈대가 뚜렷하게 보인다. 그쪽 6절에서 다룬 "소문자 전용 `int[26]`" 함정이 여기서도 그대로(대문자까지 있어 `int[128]`이 필요하다는 형태로) 반복된다.
 - [Find All Anagrams in a String (LeetCode 438)](../438-find-all-anagrams-in-a-string/Solution.md) — 윈도우 크기가 `p.length()`로 고정된 버전. 이 문제와 달리 "정확히 같은 개수"를 요구하고, 윈도우가 늘어나기만 하는 게 아니라 크기가 고정되어 오른쪽이 늘 때 왼쪽도 함께 미는 구조다.
 
+- [Minimum Size Subarray Sum (LeetCode 209)](../209-minimum-size-subarray-sum/Solution.md) — 완전히 같은 뼈대. 조건이 "합이 target 이상"으로 바뀐 더 단순한 버전이다.
+
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 슬라이딩 윈도우, 문자 빈도 비교 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
 ---
