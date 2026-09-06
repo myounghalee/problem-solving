@@ -120,6 +120,8 @@ class Solution {
 
 이 저장소에서 **"이전 몇 개의 상태만 참조하는" 선형 DP**의 첫 문제다. 기존에 푼 DP 문제들과는 결이 다르다 — [Longest Palindromic Subsequence (LeetCode 516)](../516-longest-palindromic-subsequence/Solution.md)·[Palindromic Substrings (LeetCode 647)](../647-palindromic-substrings/Solution.md)은 구간 `[i,j]`를 상태로 삼는 2차원 구간 DP이고, [Ugly Number II (LeetCode 264)](../264-ugly-number-ii/Solution.md)는 힙으로 다음 값을 생성하는 방식이라 이 문제의 "직전 상태 재사용" 패턴과는 다르다.
 
+- [Coin Change (LeetCode 322)](../322-coin-change/Solution.md) — 같은 1차원 DP지만 전이의 폭이 다르다. 이 문제는 직전 두 상태(`dp[i-1]`,`dp[i-2]`)만 보는 고정된 전이인 반면, 322번은 `dp[amount]`가 동전 종류 수만큼의 후보 중 최선을 고르는 더 넓은 전이다.
+
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 선형 DP(이전 k개 상태만 참조), 배열을 변수로 압축하는 최적화 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
 ---
