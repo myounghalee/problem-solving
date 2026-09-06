@@ -118,6 +118,7 @@ class Solution {
 
 - [Two Sum IV - Input is a BST (LeetCode 653)](../653-two-sum-iv-input-is-a-bst/Solution.md) — 같은 `TreeNode` 구조를 다루지만, 이쪽은 "합이 k인 두 값 찾기"가 목적이라 풀이 기법(BFS+HashSet)은 다르다.
 - [K-th Largest Perfect Subtree Size in Binary Tree (LeetCode 3319)](../3319-k-th-largest-perfect-subtree-size-in-binary-tree/Solution.md) — "루트만 보지 말고 모든 노드에서 조건을 검사해야 한다", "실패 신호(`-1`)를 일반 숫자처럼 계산에 섞으면 안 된다"는 똑같은 함정을 겪은 자매 문제.
+- [Same Tree (LeetCode 100)](../100-same-tree/Solution.md) — 이 문제가 "한 트리 안에서 왼쪽과 오른쪽을" 동시에 비교한다면, 그쪽은 "두 트리를 동시에" 내려가며 비교한다는 점이 대비된다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 트리 높이/DFS 조기 종료 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
