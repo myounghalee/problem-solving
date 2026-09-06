@@ -104,6 +104,7 @@ class Solution {
 
 - [Longest Palindromic Subsequence (LeetCode 516)](../516-longest-palindromic-subsequence/Solution.md) — **부분 수열**(연속 안 해도 됨) 버전. 이 문제의 "중심에서 확장" 방식이 안 통해서, 구간 DP로 접근해야 한다는 점이 좋은 대조가 된다.
 - [Palindromic Substrings (LeetCode 647)](../647-palindromic-substrings/Solution.md) — 가장 긴 것 하나가 아니라, 팰린드롬 부분 문자열이 총 몇 개인지 센다.
+- [Valid Palindrome (LeetCode 125)](../125-valid-palindrome/Solution.md) — 팰린드롬을 "찾는" 대신 이미 주어진 문자열이 팰린드롬인지만 "바깥에서 안으로" 판정하면 되는 더 단순한 버전.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 팰린드롬, 투 포인터 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 

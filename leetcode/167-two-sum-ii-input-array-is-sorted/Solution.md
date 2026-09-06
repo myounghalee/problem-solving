@@ -88,6 +88,8 @@ class Solution {
 
 - [Two Sum (LeetCode 1)](../1-two-sum/Solution.md) — 정렬되지 않은 배열 버전. 해시맵으로 `O(n)` 시간/공간에 풀었다. 이 문제와 비교하면 "정렬 여부"가 접근 방식(해시맵 vs 투 포인터)을 완전히 바꾼다는 걸 잘 보여준다.
 - [Two Sum IV - Input is a BST (LeetCode 653)](../653-two-sum-iv-input-is-a-bst/Solution.md) — 입력이 BST인 변형. BST를 중위 순회하면 정렬된 값이 나오므로, 이 문제의 투 포인터 로직을 그대로 재사용할 수도 있다.
+- [3Sum (LeetCode 15)](../15-3sum/Solution.md) — 이 문제의 투 포인터를 안쪽 루프로 재사용해, 바깥에 "하나를 고정하는" 루프를 씌운 문제.
+- [Valid Palindrome (LeetCode 125)](../125-valid-palindrome/Solution.md) — 같은 "양 끝에서 좁혀오는" 투 포인터지만, 값의 합이 아니라 대칭 여부를 검사한다는 점이 다르다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 투 포인터, 정렬 배열 탐색 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
