@@ -131,6 +131,7 @@ class Solution {
 
 - [Longest Substring Without Repeating Characters (LeetCode 3)](../3-longest-substring-without-repeating-characters/Solution.md) — 같은 슬라이딩 윈도우지만 크기가 **고정이 아니라 가변**인 버전. 이 문제는 윈도우 크기를 `p.length()`가 정해주는 반면, 3번은 "중복 없음"이라는 조건이 크기를 정한다. 문자 집합이 소문자로 한정되지 않아 `int[26]` + `c - 'a'`가 통하지 않는다는 차이도 함께 정리해뒀다.
 - [Valid Anagram (LeetCode 242)](../242-valid-anagram/Solution.md) — 슬라이딩 윈도우 없이, 두 문자열 자체가 애너그램인지만 판정하는 더 단순한 버전. 정렬/배열/해시맵 세 가지 방법을 비교해뒀다.
+- [Minimum Window Substring (LeetCode 76)](../76-minimum-window-substring/Solution.md) — 같은 문자 빈도 배열을 쓰지만, 이 문제는 윈도우 크기가 `p.length()`로 고정인 반면 76번은 "t를 포함하는 한 최대한 줄여보는" 가변 크기다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 슬라이딩 윈도우, 애너그램/문자 빈도 비교 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
