@@ -186,6 +186,8 @@ if (min > right - left + 1) {
 
 - [Minimum Size Subarray Sum (LeetCode 209)](../209-minimum-size-subarray-sum/Solution.md) — 완전히 같은 뼈대. 조건이 "합이 target 이상"으로 바뀐 더 단순한 버전이다.
 
+- [Substring with Concatenation of All Words (LeetCode 30)](../30-substring-with-concatenation-of-all-words/Solution.md) — 같은 빈도 비교 슬라이딩 윈도우지만, 이 문제는 가변 크기인 반면 그쪽은 `totalLen`으로 크기가 고정이고 단어 단위로 움직인다.
+
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 슬라이딩 윈도우, 문자 빈도 비교 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
 ---

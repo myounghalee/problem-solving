@@ -136,6 +136,8 @@ class Solution {
 
 - [Minimum Window Substring (LeetCode 76)](../76-minimum-window-substring/Solution.md) — 완전히 같은 뼈대. 조건이 "문자 빈도를 전부 채웠는가"로 바뀐 버전이다. 그쪽에서 `min` 변수를 갱신하는 줄을 빠뜨렸던 시행착오가, 이 문제에서는 처음부터 정확한 위치에 있다는 점이 대비된다.
 
+- [Substring with Concatenation of All Words (LeetCode 30)](../30-substring-with-concatenation-of-all-words/Solution.md) — 같은 슬라이딩 윈도우 뼈대지만 조건이 합계가 아니라 단어 빈도 일치이고, 윈도우가 단어 단위(`wordLen`)로 움직여 잔여류별로 나눠 돌려야 한다는 점이 다르다.
+
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 가변 크기 슬라이딩 윈도우, 누적합 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
 ---

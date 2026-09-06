@@ -133,6 +133,8 @@ class Solution {
 - [Valid Anagram (LeetCode 242)](../242-valid-anagram/Solution.md) — 슬라이딩 윈도우 없이, 두 문자열 자체가 애너그램인지만 판정하는 더 단순한 버전. 정렬/배열/해시맵 세 가지 방법을 비교해뒀다.
 - [Minimum Window Substring (LeetCode 76)](../76-minimum-window-substring/Solution.md) — 같은 문자 빈도 배열을 쓰지만, 이 문제는 윈도우 크기가 `p.length()`로 고정인 반면 76번은 "t를 포함하는 한 최대한 줄여보는" 가변 크기다.
 
+- [Substring with Concatenation of All Words (LeetCode 30)](../30-substring-with-concatenation-of-all-words/Solution.md) — 같은 고정 크기 윈도우 + 빈도 비교지만, 비교 단위가 문자가 아니라 단어다. "한 칸"이 단어 하나가 되면서 잔여류(offset)별로 윈도우를 따로 돌려야 한다는 점이 새로 추가된다.
+
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 슬라이딩 윈도우, 애너그램/문자 빈도 비교 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
 ---
