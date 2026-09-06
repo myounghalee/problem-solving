@@ -222,6 +222,7 @@ return new ArrayList<>(set);
 - [Two Sum II - Input Array Is Sorted (LeetCode 167)](../167-two-sum-ii-input-array-is-sorted/Solution.md) — 이 문제의 안쪽 루프가 정확히 이 문제다. "정렬된 배열 + 투 포인터로 2Sum"이라는 원형을 그대로 가져와, 바깥에 "하나를 고정하는" 루프를 씌운 것이 3Sum이다.
 - [Two Sum (LeetCode 1)](../1-two-sum/Solution.md) — 정렬 없이 해시맵으로 2Sum을 푸는 버전. 167번·이 문제와 달리 인덱스를 반환해야 해서 정렬로 순서를 잃을 수 없다는 제약이 다르다.
 - [Valid Palindrome (LeetCode 125)](../125-valid-palindrome/Solution.md) — 같은 투 포인터 계열이지만, 배열의 합이 아니라 문자열의 대칭 여부를 검사하는 쪽으로 적용 대상이 다르다.
+- [Container With Most Water (LeetCode 11)](../11-container-with-most-water/Solution.md) — 정렬 없이도 양 끝 투 포인터가 성립하는 문제. "합이 목표치와 같은가"가 아니라 "곱(넓이)이 최대인가"를 본다는 점이 다르다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. kSum, 투 포인터, 중복 제거 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 

@@ -132,6 +132,7 @@ if (c >= 'A' && c <= 'Z') c += ('a' - 'A');   // ASCII 범위 안에서 직접 �
 - [Two Sum II - Input Array Is Sorted (LeetCode 167)](../167-two-sum-ii-input-array-is-sorted/Solution.md) — 정렬된 배열에서 두 값의 합을 찾는 투 포인터. 이 문제는 "특정 조건을 만족하는 쌍을 찾는" 대신 "전체가 대칭인지 검사"한다는 목적이 다르다.
 - [3Sum (LeetCode 15)](../15-3sum/Solution.md) — 167번의 투 포인터를 안쪽 루프로 재사용해 하나를 고정하고 확장한 문제. 이 문제와는 "무엇을 찾느냐"가 다르지만, "정렬(또는 대칭 구조) + 양 끝에서 좁혀온다"는 뼈대는 같다.
 - [Longest Palindromic Substring (LeetCode 5)](../5-longest-palindromic-substring/Solution.md) — 팰린드롬을 판정하는 것을 넘어 **찾아야** 하는 문제. "가운데서 바깥으로 확장"하는 이 문제와 달리, 이 문제는 이미 주어진 전체 문자열이 팰린드롬인지만 "바깥에서 안으로" 확인하면 된다는 점이 대비된다.
+- [Container With Most Water (LeetCode 11)](../11-container-with-most-water/Solution.md) — 같은 "양 끝에서 좁혀오는" 투 포인터지만, 대칭 판정이 아니라 값(넓이)을 최적화한다. "다르면 즉시 실패"인 이 문제와 달리, 매 단계 "어느 쪽을 옮길지" 근거를 증명해야 한다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 투 포인터, 팰린드롬 판정 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
