@@ -120,6 +120,8 @@ class Solution {
 - [K-th Largest Perfect Subtree Size in Binary Tree (LeetCode 3319)](../3319-k-th-largest-perfect-subtree-size-in-binary-tree/Solution.md) — "루트만 보지 말고 모든 노드에서 조건을 검사해야 한다", "실패 신호(`-1`)를 일반 숫자처럼 계산에 섞으면 안 된다"는 똑같은 함정을 겪은 자매 문제.
 - [Same Tree (LeetCode 100)](../100-same-tree/Solution.md) — 이 문제가 "한 트리 안에서 왼쪽과 오른쪽을" 동시에 비교한다면, 그쪽은 "두 트리를 동시에" 내려가며 비교한다는 점이 대비된다.
 
+- [Construct Binary Tree from Preorder and Inorder Traversal (LeetCode 105)](../105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.md) — 기존 트리를 분석하는 이 문제들과 반대로, 순회 결과라는 평면 데이터에서 트리 구조를 역으로 복원한다.
+
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 트리 높이/DFS 조기 종료 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
 ---

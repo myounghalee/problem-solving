@@ -173,6 +173,8 @@ class Solution {
 - [Balanced Binary Tree (LeetCode 110)](../110-balanced-binary-tree/Solution.md) — 트리 하나를 재귀로 내려가며 "왼쪽·오른쪽 서브트리의 높이 차이"를 검사한다. 이 문제가 "두 트리를 동시에" 내려간다면, 그쪽은 "한 트리 안에서 왼쪽과 오른쪽을" 동시에 비교한다는 점이 대비된다.
 - [Two Sum IV - Input is a BST (LeetCode 653)](../653-two-sum-iv-input-is-a-bst/Solution.md) — 트리를 순회하며 값을 모으는 문제. 이 문제와 달리 순서(왼쪽/오른쪽 대응)는 중요하지 않고 값의 집합만 중요하다는 차이가 있다.
 
+- [Construct Binary Tree from Preorder and Inorder Traversal (LeetCode 105)](../105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.md) — 기존 트리를 분석하는 이 문제들과 반대로, 순회 결과라는 평면 데이터에서 트리 구조를 역으로 복원한다.
+
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 트리 순회, 두 자료구조를 동시에 비교하는 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
 ---
