@@ -141,6 +141,8 @@ Long num = Long.parseLong(num1) + Long.parseLong(num2);
 - [Merge Two Sorted Lists (LeetCode 21)](../21-merge-two-sorted-lists/Solution.md) — 같은 "더미 헤드 + `cur` 포인터로 새 리스트를 만든다"는 패턴을 쓴다. 그쪽은 값을 비교해 순서대로 잇는 것이 목적이고, 이 문제는 값을 더해 자리올림을 계산하는 것이 목적이라는 차이가 있다.
 - [Remove Nodes From Linked List (LeetCode 2487)](../2487-remove-nodes-from-linked-list/Solution.md) — 리스트를 새로 만드는 대신 기존 노드를 재배치한다는 점이 대비된다. 이 문제는 정확히 반대로, 입력을 건드리지 않고 전부 새 노드로 결과를 만든다.
 
+- [Reverse Linked List II (LeetCode 92)](../92-reverse-linked-list-ii/Solution.md) — 반대로 새 노드를 하나도 만들지 않고, 기존 노드의 `next`만 다시 연결해 구간을 뒤집는다.
+
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 연결 리스트 조작, 더미 헤드 패턴 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
 ---
