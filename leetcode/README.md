@@ -62,6 +62,7 @@
 | [264](https://leetcode.com/problems/ugly-number-ii/) | Ugly Number II | Medium | Hash Table, Math, Dynamic Programming, Heap (Priority Queue) | [Problem.md](./264-ugly-number-ii/Problem.md) | [Solution.md](./264-ugly-number-ii/Solution.md) |
 | [359](https://leetcode.com/problems/logger-rate-limiter/) | Logger Rate Limiter | Easy | Hash Table, Design, Data Stream | [Problem.md](./359-logger-rate-limiter/Problem.md) | [Solution.md](./359-logger-rate-limiter/Solution.md) |
 | [362](https://leetcode.com/problems/design-hit-counter/) | Design Hit Counter | Medium | Design, Queue, Binary Search, Data Stream | [Problem.md](./362-design-hit-counter/Problem.md) | [Solution.md](./362-design-hit-counter/Solution.md) |
+| [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Remove Duplicates from Sorted Array II | Medium | Array, Two Pointers | [Problem.md](./80-remove-duplicates-from-sorted-array-ii/Problem.md) | [Solution.md](./80-remove-duplicates-from-sorted-array-ii/Solution.md) |
 
 ## 개발 환경
 

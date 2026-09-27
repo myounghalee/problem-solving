@@ -90,6 +90,7 @@ class Solution {
 - [Two Sum IV - Input is a BST (LeetCode 653)](../653-two-sum-iv-input-is-a-bst/Solution.md) — 입력이 BST인 변형. BST를 중위 순회하면 정렬된 값이 나오므로, 이 문제의 투 포인터 로직을 그대로 재사용할 수도 있다.
 - [3Sum (LeetCode 15)](../15-3sum/Solution.md) — 이 문제의 투 포인터를 안쪽 루프로 재사용해, 바깥에 "하나를 고정하는" 루프를 씌운 문제.
 - [Valid Palindrome (LeetCode 125)](../125-valid-palindrome/Solution.md) — 같은 "양 끝에서 좁혀오는" 투 포인터지만, 값의 합이 아니라 대칭 여부를 검사한다는 점이 다르다.
+- [Remove Duplicates from Sorted Array II (LeetCode 80)](../80-remove-duplicates-from-sorted-array-ii/Solution.md) — 역시 "정렬된 배열 + `O(1)` 공간"이지만, 양 끝이 아니라 **한쪽에서 훑으며 같은 배열에 덮어쓰는** 읽기/쓰기 포인터 방식이다.
 
 > 이 섹션은 새 문제를 풀 때마다 갱신됩니다. 투 포인터, 정렬 배열 탐색 계열 문제를 풀면 이 목록에 서로 링크를 추가해주세요.
 
