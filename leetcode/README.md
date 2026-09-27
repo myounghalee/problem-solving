@@ -63,6 +63,7 @@
 | [359](https://leetcode.com/problems/logger-rate-limiter/) | Logger Rate Limiter | Easy | Hash Table, Design, Data Stream | [Problem.md](./359-logger-rate-limiter/Problem.md) | [Solution.md](./359-logger-rate-limiter/Solution.md) |
 | [362](https://leetcode.com/problems/design-hit-counter/) | Design Hit Counter | Medium | Design, Queue, Binary Search, Data Stream | [Problem.md](./362-design-hit-counter/Problem.md) | [Solution.md](./362-design-hit-counter/Solution.md) |
 | [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Remove Duplicates from Sorted Array II | Medium | Array, Two Pointers | [Problem.md](./80-remove-duplicates-from-sorted-array-ii/Problem.md) | [Solution.md](./80-remove-duplicates-from-sorted-array-ii/Solution.md) |
+| [189](https://leetcode.com/problems/rotate-array/) | Rotate Array | Medium | Array, Math, Two Pointers | [Problem.md](./189-rotate-array/Problem.md) | [Solution.md](./189-rotate-array/Solution.md) |
 
 ## 개발 환경
 
