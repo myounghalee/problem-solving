@@ -2,14 +2,14 @@ import java.util.Arrays;
 
 class Solution {
     public void rotate(int[] nums, int k) {
-        for (int i = 0; i < k; i++) {
-            int num = nums[0];
-            for (int j = 1; j < nums.length; j++) {
-                int next = nums[j];
-                nums[j] = num;
-                num = next;
-            }
-            nums[0] = num;
+        int[] copy = nums.clone();
+        int index = 0;
+        k = k % nums.length;
+        for (int i = nums.length - k; i < nums.length; i++) {
+            nums[index++] = copy[i];
+        }
+        for (int i = 0; i < nums.length - k; i++) {
+            nums[index++] = copy[i];
         }
     }
 
