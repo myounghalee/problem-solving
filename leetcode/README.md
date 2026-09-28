@@ -68,6 +68,7 @@
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | [Problem.md](./121-best-time-to-buy-and-sell-stock/Problem.md) | [Solution.md](./121-best-time-to-buy-and-sell-stock/Solution.md) |
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Best Time to Buy and Sell Stock II | Medium | Array, Dynamic Programming, Greedy | [Problem.md](./122-best-time-to-buy-and-sell-stock-ii/Problem.md) | [Solution.md](./122-best-time-to-buy-and-sell-stock-ii/Solution.md) |
 | [290](https://leetcode.com/problems/word-pattern/) | Word Pattern | Easy | Hash Table, String | [Problem.md](./290-word-pattern/Problem.md) | [Solution.md](./290-word-pattern/Solution.md) |
+| [55](https://leetcode.com/problems/jump-game/) | Jump Game | Medium | Array, Dynamic Programming, Greedy | [Problem.md](./55-jump-game/Problem.md) | [Solution.md](./55-jump-game/Solution.md) |
 
 ## 개발 환경
 
